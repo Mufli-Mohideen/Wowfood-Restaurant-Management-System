@@ -17,7 +17,7 @@ The system provides functionalities for managing restaurant operations such as m
 
 ## Installation 🛠️  
 
-1. Clone the repository: `git clone https://github.com/your-username/wowfood-restaurant-management.git`  
+1. Clone the repository: `git clone https://github.com/Mufli-Codes/Wowfood-Restaurant-Management-System.git`  
 2. Import the SQL file into your SQL database.  
 3. Ensure MongoDB is installed and configured.  
 4. Configure the database connections in the PHP files.  
@@ -33,6 +33,4 @@ The system provides functionalities for managing restaurant operations such as m
 
 Contributions are welcome! Please fork the repository and submit a pull request.  
 
-## License 📝  
 
-This project is licensed under the [MIT License](LICENSE).  
